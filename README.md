@@ -4,8 +4,9 @@
 
 # Sinais e Sistemas
 
-Repositório destinado ao primeiro trabalho computacional da disciplina de Sinais e Sistemas, da Universidade Federal Rural do Semi-Árido (UFERSA), ministrada pelo professor Dr. Pedro Thiago Valério de Souza. 
+Este repositório reúne os trabalhos computacionais desenvolvidos para a disciplina Sinais e Sistemas da Universidade Federal Rural do Semi-Árido (UFERSA), ministrada pelo Prof. Dr. Pedro Thiago Valério de Souza.
 
+Os projetos estão organizados em diretórios correspondentes a cada unidade da disciplina, facilitando a navegação e o acompanhamento das atividades desenvolvidas ao longo do semestre 2026.1.
 
 
 ## 👥 Integrantes
